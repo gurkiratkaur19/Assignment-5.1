@@ -1,0 +1,13 @@
+body{
+	background: repeating-linear-gradient(lightyellow, yellow);
+}
+header span{
+	padding: 20px;
+	background-color: blue;
+	color: white;
+	border: 1px solid blue;
+	width: 140px;
+	height: 70px;
+	border-radius: 50%;
+	display: inline-block;
+}
